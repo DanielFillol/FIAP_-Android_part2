@@ -1,5 +1,3 @@
-# Fiap_Desenvolvimento_Android_Avan-ado
-
 # Desenvolvimento de Apps - Parte 2 (Android)
 
 ## 1 - Introdução a versionamento de código e repositórios
