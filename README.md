@@ -6,8 +6,7 @@
 
 ## 2 - Gestão de Dependências e build
 - [PDF](https://github.com/Darklabel91/FIAP_-Android_part2/blob/main/2%20-%20Gestão%20de%20Dependências%20e%20build/2.pdf)
-- [Ref.](https://github.com/Darklabel91/
-FIAP_-Android_part2/blob/main/2%20-%20Gestão%20de%20Dependências%20e%20build/Captura%20de%20Tela%202022-11-17%20às%2011.23.42.png)
+- [Ref.](https://github.com/Darklabel91/FIAP_-Android_part2/blob/main/2%20-%20Gestão%20de%20Dependências%20e%20build/Captura%20de%20Tela%202022-11-17%20às%2011.23.42.png)
 
 ## 3 - Padrões de projeto Android
 - [PDF](https://github.com/Darklabel91/FIAP_-Android_part2/blob/main/3%20-%20Padrões%20de%20projeto%20Android/3.pdf)
